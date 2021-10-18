@@ -1,0 +1,8 @@
+Array List
+-Vd: 123456 => 1 2 9 3 4 5 6
+B1: - 1233456 - dịch từ số vị trí index 2 sang 1 đơn vị
+B2: - 1293456 - thay vị trí index bằng giá trị 9
+Phù hợp với các bài toán tìm kiếm và sửa dữ liệu
+
+LinkedList
+- Sợi xích
