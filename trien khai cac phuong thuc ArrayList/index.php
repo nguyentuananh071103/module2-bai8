@@ -1,11 +1,10 @@
 <?php
 include_once "MyList.php";
 
-$listInteger = new MyList();
-$listInteger->add(1);
-$listInteger->add(2);
-$listInteger>add(3);
-$listInteger->add(4);
-$listInteger->add(5);
-
-var_dump($listInteger);
+$myLish = new MyList();
+$myLish->add(1);
+$myLish->add(2);
+$myLish->add(3);
+$myLish->add(4);
+$myLish->add(5);
+var_dump($myLish);
