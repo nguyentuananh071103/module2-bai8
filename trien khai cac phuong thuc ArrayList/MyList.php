@@ -3,7 +3,7 @@ class MyList
 {
     public int $size;
     public array $elements;
-    public function __construct($size, $arr="")
+    public function __construct($arr="")
     {
         if (is_array($arr)){
 
